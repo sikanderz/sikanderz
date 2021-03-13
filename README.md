@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sikanderz
+- 👋 Hi, I’m @sikander
 - 👀 I’m interested in Web Development && UI/UX Design ,Data Science
 - 🌱 I’m currently learning WEB DEVLOPMENT
 - 💞️ I’m looking to collaborate on problem Solving 
