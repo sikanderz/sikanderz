@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development && UI/UX Design ,Data Science
 - 🌱 I’m currently learning WEB DEVLOPMENT
 - 💞️ I’m looking to collaborate on problem Solving 
-- 📫 How to reach me szeb879@gmail.com
+- 📫 How to reach me 
 
 <!---
 sikanderz/sikanderz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
