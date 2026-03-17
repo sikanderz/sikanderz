@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sikander
-- 👀 I’m interested in Web Development && UI/UX Design ,Data Science
-- 🌱 I’m currently learning WEB DEVLOPMENT
+- 👀 I’m interested in Java Backend Developer
 - 💞️ I’m looking to collaborate on problem Solving 
 - 📫 How to reach me 
 
